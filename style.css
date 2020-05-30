@@ -1,0 +1,74 @@
+body{
+    background-color: rgba(219, 255, 246, 0.548);
+    background-image: url(back1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: black;
+
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 3072px;
+}
+
+header{ 
+    height: 350px;
+    text-align: center;
+}
+
+nav{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(0, 128, 0, 0.274);
+    text-align: center;
+}
+main{
+    height: 1500px;
+    text-align: center;
+    padding-top: 150px;
+    padding-left: 440px; 
+    padding-right: 440px;
+}
+
+h1{
+    font-size: 200px;
+    /* color: white;*/
+} 
+
+p{
+    font-size: 50px;
+    /* color: white; */
+}
+
+a{
+    font-size: 50px;
+    /* color: white; */
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.513);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+nav a{
+ 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.maps{
+    padding-top: 500px;
+  padding-bottom: 100px;
+  padding-left: 400px;
+  padding-right: 400px;
+   
+}
+
+footer p{
+    font-style:italic;
+    font-size: 50px;
+}
